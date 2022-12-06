@@ -1,65 +1,19 @@
-### Hi there 👋, I'm Vlad
+<h1 align="center">Hi there 👋, I'm Kirill</h1>
+<h3 align="center">Student developer from Russia</h3>
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=b1rdow&label=Profile%20views&color=6112d9&style=flat" alt="b1rdow" /> </p>
 
-## I'm a FrontEnd Developer, and Teacher
-- 💪 I like to write code
-- 🎉 I love to paint and play the guitar
-- 🥅 I am constantly learning new things
-- ⚡ I love writing an article for https://webtricks-master.ru/
-- 🤹🏽 I like to shoot videos for youtube 
+- 🔭 I’m currently working on [VANILLA PLUS](https:\\vanilla-plus.ru)
 
-### Connect with me:
+- 📫 How to reach me **griner710@gmail.com**
 
-[<img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="VladKalachev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+- ⚡ Fun fact **There are no bugs in my programs. There are only unexpected features.**
 
-<br />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-
-<br />
-<br />
-
-### Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [Деструктуризация в JavaScript](https://webtricks-master.ru/javascript/destrukturizatsiya-v-javascript/)
-- [Пишем список задач на React Hooks](https://webtricks-master.ru/react-hooks/pishem-spisok-zadach-na-react-hooks/)
-- [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme — React Hooks](https://webtricks-master.ru/react-hooks/custom-hooks-na-primerah-pishem-svoj-useinput-usefetch-usetheme-react-hooks/)
-- [Как подключить Sass к React?](https://webtricks-master.ru/beginners/kak-podklyuchit-sass-k-react/)
-- [Обзор VSCode Stories. Плагины Visual Studio Code](https://webtricks-master.ru/novosti-it/obzor-vscode-stories-plaginy-visual-studio-code/)
-<!-- BLOG-POST-LIST:END -->
-
-### My YouTube Videos:
-<!-- YOUTUBE:START -->
-- [Как найти работу джуну без опыта? пошаговая инструкция](https://www.youtube.com/watch?v=DzyKrIBHln8)
-- [Пишем список задач на React &lpar;React Hooks&rpar;](https://www.youtube.com/watch?v=XwIiBXZ41Os)
-- [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme - React Hooks](https://www.youtube.com/watch?v=VFefv_YSGfY)
-- [Учим useLayoutEffect за 6 минут - React Hooks](https://www.youtube.com/watch?v=KaaH6cra2lo)
-- [Учим useCallback за 7 минут - React Hooks](https://www.youtube.com/watch?v=AqCkWH4ws1Y)
-<!-- YOUTUBE:END -->
-
-<details>
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&langs_count=8&layout=compact" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
-</details>
-
-[website]: https://webtricks-master.ru/
-[youtube]: https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w
-[linkedin]: https://www.linkedin.com/in/vlad-kalachev-ab87b312a/
-[instagram]: https://www.instagram.com/corvaxv/
-[vk]: https://vk.com/vladislavkalachov
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b1rdow&theme=dark" alt="b1rdow" /></p>

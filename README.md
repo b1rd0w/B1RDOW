@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Kirill</h1>
 <h3 align="center">Student developer from Russia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=b1rdow&label=Profile%20views&color=6112d9&style=flat" alt="b1rdow" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=b1rdow&label=Profile%20views&color=6112d9&style=flat" alt="b1rdow" /> </p>
 
 - 🔭 I’m currently working on [VANILLA PLUS](https:\\vanilla-plus.ru)
 

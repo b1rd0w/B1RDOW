@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kirill! 👋</h1>
+<h1 align="center">Hi there, I'm Kirill!</h1>
 <p align="center">Student website developer from Russia</h3>
 
 ## My Web Stack

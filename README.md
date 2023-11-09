@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kirill 👋</h1>
+<h1 align="center">Hi there, I'm Kirill! 👋</h1>
 <p align="center">Student website developer from Russia</h3>
 
 ## My Web Stack
@@ -11,17 +11,11 @@
 ## My stats
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=B1RDOW&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide=stars,issues" alt="Github stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B1RDOW&layout=compact&count_private=true" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api?username=B1RDOW&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide=stars,issues&theme=transparent&border_color=0e1117" alt="Github stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B1RDOW&layout=compact&count_private=true&theme=transparent&border_color=0e1117" alt="Top Langs">
   </a>
 </p>
 
 ## My projects
 
 [VANILLA PLUS](https://vanilla-plus.ru) - Modern vanilla server of minecraft with synchronization with the site
-
-<p align="end">
-  <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=b1rdow&label=Profile%20views&color=6112d9&style=flat" alt="b1rdow" />
-  </a>
-</p>
